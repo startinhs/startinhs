@@ -4,6 +4,6 @@
 
 .NET | ASP.NET | ASP.NET Core | ABP | Blazor | Identity | ... 
 
-Full-Stack Web Development | Machine Learning && Deep Learning [Python/C#]
+Development | Machine Learning && Deep Learning [Python/C#]
 
 Passionate about building scalable, secure, and user-friendly applications. Let's connect and collaborate! 🚀
